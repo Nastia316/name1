@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\Захарова1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\Захарова1-1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\Захарова1-1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\Захарова1-1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\bin\Debug\net8.0\Захарова1-1.exe
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\bin\Debug\net8.0\Захарова1-1.deps.json
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\bin\Debug\net8.0\Захарова1-1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\bin\Debug\net8.0\Захарова1-1.dll
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\bin\Debug\net8.0\Захарова1-1.pdb
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\Захарова1-1.dll
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\refint\Захарова1-1.dll
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\Захарова1-1.pdb
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\Захарова1-1.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\учеба\C#\Захарова1-1\Захарова1-1\obj\Debug\net8.0\ref\Захарова1-1.dll
