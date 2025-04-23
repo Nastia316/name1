@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\bin\Debug\net8.0\3-2good.exe
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\bin\Debug\net8.0\3-2good.deps.json
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\bin\Debug\net8.0\3-2good.runtimeconfig.json
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\bin\Debug\net8.0\3-2good.dll
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\bin\Debug\net8.0\3-2good.pdb
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\3-2good.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\3-2good.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\3-2good.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\3-2good.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\3-2good.dll
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\refint\3-2good.dll
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\3-2good.pdb
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\3-2good.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\учеба\C#\3-2good\3-2good\obj\Debug\net8.0\ref\3-2good.dll
